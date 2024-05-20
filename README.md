@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil   ⚓ 🌸
+### Boas vindas ao meu perfil   ⚓ 🌸
 
 Meu nome é Karolyne Zussa
 
@@ -9,7 +9,7 @@ Meu nome é Karolyne Zussa
 - Estou desenvolvendo pequenos projetos.
 - Utilizo esta plataforma para compartilhar meus projetos
 
-###Você pode entrar em contato comigo   📧 ###
+###Você pode entrar em contato comigo   📧 
 
   zussakarolyne@gmail.com
 
