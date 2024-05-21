@@ -13,4 +13,5 @@ Meu nome é Karolyne Zussa
 
   zussakarolyne@gmail.com
 
-💙
+
+![](https://media.tenor.com/ELJTXEVp-1QAAAAM/shrek.gif)
